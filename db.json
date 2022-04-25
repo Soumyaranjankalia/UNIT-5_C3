@@ -1,0 +1,32 @@
+{
+  "employee": [
+    {
+      "employee_name": "Soumya Ranjan Kalia",
+      "employee_id": "123456",
+      "salary": "50000",
+      "image": "vsvdvfvsvsv",
+      "username": "Soumya.rs_",
+      "password": "123456",
+      "task": "",
+      "title": "Jr Software Developer",
+      "tasks": "123456",
+      "status": "terminated",
+      "team": "backend",
+      "id": 1
+    },
+    {
+      "employee_name": "Soumya Ranjan Kalia",
+      "employee_id": "123456",
+      "salary": "50000",
+      "image": "vsvdvfvsvsv",
+      "username": "Soumya.rs_",
+      "password": "123456",
+      "task": "",
+      "title": "Jr Software Developer",
+      "tasks": "123456",
+      "status": "terminated",
+      "team": "backend",
+      "id": 2
+    }
+  ]
+}
